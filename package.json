@@ -1,5 +1,5 @@
 {
-  "name": "forkify",
+  "name": "c",
   "version": "1.0.0",
   "scripts": {
     "start": "parcel index.html",
@@ -19,5 +19,6 @@
     "parcel": "^2.12.0",
     "process": "^0.11.10",
     "sass": "^1.62.1"
-  }
+  },
+  "main": "index.js"
 }
